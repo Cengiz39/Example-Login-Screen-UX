@@ -12,6 +12,7 @@
 		399C7EB4230DD538005E664C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 399C7EB2230DD538005E664C /* Main.storyboard */; };
 		399C7EB6230DD538005E664C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 399C7EB5230DD538005E664C /* Assets.xcassets */; };
 		399C7EB9230DD538005E664C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 399C7EB7230DD538005E664C /* LaunchScreen.storyboard */; };
+		39BB5A94230FEF3D00D77EB6 /* RegisterPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39BB5A93230FEF3D00D77EB6 /* RegisterPageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,8 @@
 		399C7EB5230DD538005E664C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		399C7EB8230DD538005E664C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		399C7EBA230DD538005E664C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		399C7EC1230DD5E1005E664C /* SF-Pro-Display-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Pro-Display-Light.otf"; sourceTree = "<group>"; };
+		39BB5A93230FEF3D00D77EB6 /* RegisterPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterPageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +43,7 @@
 			children = (
 				399C7EAD230DD538005E664C /* bigProject */,
 				399C7EAC230DD538005E664C /* Products */,
+				399C7EC1230DD5E1005E664C /* SF-Pro-Display-Light.otf */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,6 +60,7 @@
 			children = (
 				399C7EAE230DD538005E664C /* AppDelegate.swift */,
 				399C7EB0230DD538005E664C /* ViewController.swift */,
+				39BB5A93230FEF3D00D77EB6 /* RegisterPageViewController.swift */,
 				399C7EB2230DD538005E664C /* Main.storyboard */,
 				399C7EB5230DD538005E664C /* Assets.xcassets */,
 				399C7EB7230DD538005E664C /* LaunchScreen.storyboard */,
@@ -137,6 +142,7 @@
 			files = (
 				399C7EB1230DD538005E664C /* ViewController.swift in Sources */,
 				399C7EAF230DD538005E664C /* AppDelegate.swift in Sources */,
+				39BB5A94230FEF3D00D77EB6 /* RegisterPageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
